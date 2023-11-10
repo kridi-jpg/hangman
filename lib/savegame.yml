@@ -1,0 +1,7 @@
+---
+letter_counter: 2
+guessed_letter_so_far:
+- a
+- i
+word_placeholder: _ i _ _ a _ _
+word: richard
